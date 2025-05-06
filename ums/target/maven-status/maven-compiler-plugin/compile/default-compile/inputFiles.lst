@@ -1,0 +1,16 @@
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/UserJpaRepository.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/UserJpaEntity.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/application/RoleService.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/application/UserService.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/domain/Role.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/config/BeanConfig.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/domain/User.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/UserManagementApplication.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/controller/UserController.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/application/interfaces/UserRepository.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/controller/RoleController.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/application/interfaces/RoleRepository.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/RoleRepositoryImpl.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/RoleJpaEntity.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/UserRepositoryImpl.java
+/home/nahid/Desktop/5th_SEM/D&A/user-management-system/src/main/java/com/example/usermanagement/infrastructure/persistence/RoleJpaRepository.java
